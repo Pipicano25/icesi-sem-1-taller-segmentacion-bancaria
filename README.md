@@ -24,6 +24,14 @@ Análisis y segmentación de clientes bancarios a partir de una base de datos de
 pip install pandas numpy matplotlib scikit-learn jupyter
 ```
 
+## Temas, tecnologías y notebooks
+
+Cada notebook enlaza a su archivo en GitHub.
+
+| Tema | Tecnologías | Notebooks |
+|---|---|---|
+| Segmentación de clientes bancarios (K-Means) | scikit-learn, pandas | [analisis.ipynb](https://github.com/Pipicano25/icesi-sem-1-taller-segmentacion-bancaria/blob/main/analisis.ipynb) |
+
 ## Uso
 
 ```bash
